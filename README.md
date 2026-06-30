@@ -67,3 +67,6 @@ src/hangman/
 - Event-driven programming
 - Component architecture
 - User interface design
+
+Academic Project
+This project was developed as part of my BSc Computer Science (Artificial Intelligence) coursework at Heriot-Watt University Dubai. It is shared for portfolio and educational purposes.
