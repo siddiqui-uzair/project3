@@ -60,3 +60,10 @@ src/hangman/
 5. Win when all letters revealed
     
 6. Lose when health reaches 0
+
+## Skills Demonstrated
+
+- Java Swing GUI development
+- Event-driven programming
+- Component architecture
+- User interface design
